@@ -19,3 +19,4 @@ __pycache__/
 # Data (never commit raw / participant-level data)
 *.sas7bdat
 *.rds
+desktop.ini
